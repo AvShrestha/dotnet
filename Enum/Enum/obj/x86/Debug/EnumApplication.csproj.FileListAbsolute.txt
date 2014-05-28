@@ -1,5 +1,0 @@
-D:\Repo\github\dotnet\Enum\Enum\bin\Debug\Enum.exe
-D:\Repo\github\dotnet\Enum\Enum\bin\Debug\Enum.pdb
-D:\Repo\github\dotnet\Enum\Enum\obj\x86\Debug\ResolveAssemblyReference.cache
-D:\Repo\github\dotnet\Enum\Enum\obj\x86\Debug\Enum.exe
-D:\Repo\github\dotnet\Enum\Enum\obj\x86\Debug\Enum.pdb
